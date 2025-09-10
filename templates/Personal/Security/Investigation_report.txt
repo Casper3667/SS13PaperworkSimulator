@@ -1,0 +1,15 @@
+[small][center][b]Idris Inc.
+Civilian Branch of Investigation[/b]
+
+Forensic Result
+[/center][hr]Case: C-[field]
+Time & Date of Assessment: [field] on the [date]
+Sources: [field]
+[hr]Fingerprint Cards: [field]
+Unique Prints: [field]
+Prints: [list][field]
+[/list][hr]Fiber bags: [field]
+Fibers: [/b][list][field]
+[/list][hr]Investigative Personnel: [field]
+Signature 1: [field]
+Signature 2: [field]

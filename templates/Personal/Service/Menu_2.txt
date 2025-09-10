@@ -1,0 +1,28 @@
+[center][large][logo_idris][br][br][b]SCCV Horizon Kitchen[/b][/large][/center][br][hr][center][small][grid][row][cell][u][b][center]Burgers[/center][/b][/u][list][*]Cheese Burger
+[*]Bacon Burger
+[*]Regular Burger
+[*]Tofu Burger
+[/list][cell][u][b][center]Fries[/center][/b][/u][list][*]Carrot Fries
+[*]Potato Fries
+[*]Cheesy Fries
+[*]Chili Cheese Fries
+[/list][cell][u][b][center]Sandwiches[/center][/b][/u][list][*]BLT
+[*]Regular Sandwich
+[*]Jelly Sandwich
+[*]Toasted Sandwich
+[/list][/grid][hr][grid][row][cell][u][b][center]Bread & Burritos[/center][/b][/u][list][*]Meat Bread
+[*]Cream Cheese Bread
+[*]Meat burrito
+[*]Spicy meat burrito
+[*]Meat & Cheese Burrito
+[/list][cell][u][b][center]K'ois[/center][/b][/u][list][*]K'ois Burger
+[*]Fried K'ois
+[*]K'ois Jelly
+[*]K'ois Steak
+[*]K'ois Waffles
+[/list][cell][u][b][center]Soup[/center][/b][/u][list][*]Onion Soup
+[*]Meatball Soup
+[*]Miso Soup
+[*]Chantrelle Soup
+[*]Vegetable Soup
+[/list][/grid][hr][i]The availability of each recipe may vary.[/i][/small][/center]

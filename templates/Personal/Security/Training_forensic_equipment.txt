@@ -1,0 +1,30 @@
+[small][center][b]Idris Inc.
+Civilian Branch of Investigation[/b]
+
+Training
+[/center][hr]Subject: Forensic Equipment
+Supervisor: Kathira El-Hashem
+Supervisor signature: [field]
+[hr]Critical Equipment: [list][*]Fiber collection kit: Collects clothing fibers from mainly uniforms, gloves and suits
+[*]Fingerprint powder: Aids in locating fingerprints on touched equipment
+[*]Mass spectrometer: Used to detect trace chemicals from blood samples
+[*]Reagent scanner: Detects most chemicals within a container, but not trace chemicals
+[*]Swab kit: Collects blood or dna samples, or GSR (gunpowder) residue to identify weapon discharge
+[*]Forensic gloves: Unique gloves for investigative personnel
+[/list][hr]Other Equipment:[list][*]Bodybag: Used for collecting dead bodies. Sometimes expected more than the first responder is
+[*]Evidence bags: For all evidence that fits within. Critical where syringes are involved
+[*]Syringe: To take  blood samples for use with the spectrometer
+[*]Camera: Take photos of crime scenes or autopsy bodies
+[*]Mini disruptor: Also self defense
+[*]Recorder: To record all interviews and interrogations
+[*]Folder: Holds both papers, fibers and fingerprint cards. Particularly useful if labelled
+[/list][hr]Bonus Equipment: [list][*]Tape: Mark off crime scenes if officers don't
+[*]Flash: Self defense
+[*]Labcoat: Best used during autopsies
+[*]Nitrile gloves: For handling bodies,  blood and autopsies
+[*]Surgical mask: See above
+[*]Crime scene markers: Number marks a crime scene. Useful if a picture has several pieces of evidence in it
+[*]Vial: For blood or other chemicals
+[*]Luminol: To show cleaned up blood
+[*]UV light: To show the above
+[*]Fingerprint cards: To take prints from a suspect, should they lack  a print record.[/small]

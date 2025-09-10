@@ -1,0 +1,12 @@
+[small][center][b]Idris Inc.
+Civilian Branch of Investigation[/b]
+
+Forensic Report
+[/center][hr]Case Number: C[field]
+Time & Date of Assessment: [field] on the [date]
+[hr]Summary: [list][field]
+[/list]Contents: [list][field]
+[/list]Total Number of Pages: [field]
+[hr]Investigative Personnel: [field]
+Signature 1: [field]
+Signature 2: [field]

@@ -1,0 +1,31 @@
+[center][large][logo_idris][br][br][b]The Tasty Plaza Cafe[/b][/large][/center][br][hr][small][grid][row][cell][u][b]Sandwiches[/b][/u][br][list][*]Sandwich
+[*]Toasted Sandwich
+[*]Grilled Cheese Sandwich
+[*]Club sandwhich
+[/list][cell][u][b]Fries[/b][/u][br][list][*]Carrot Fries
+[*]Potato Fries
+[*]Cheesy Fries
+[*]Curly fries
+[/list][cell][u][b]Pizzas[/b][/u][br][list][*]Margherita
+[*]Mushroom Pizza
+[*]Meat Pizza
+[*]Vegetable Pizza
+[/list][/grid][hr][grid][row][cell][u][b]Bread & burritos[/b][/u][br][list][*]Meat Burger
+[*]Tofu Burger
+[*]Meat Bread
+[*]Cream Cheese Bread
+[*]Meat burrito
+[*]Spicy meat burrito
+[/list][cell][u][b]Meat recipes[/b][/u][br][list][*]Meatball soup
+[*]Fried eggs
+[*]Omelette
+[*]Fish 'n' chips
+[*]Doner kebab
+[*]Hatchling surprise
+[/list][cell][u][b]Adhomian[/b][/u][br][list][*]Bread
+[*]Cone cake
+[*]Fruit rikazu
+[*]Vegetable rikazu
+[*]Roasted dirtberries
+[*]Earthen-root soup
+[/list][/grid][hr][i]The availability of each recipe may vary. Restrictions may apply.[/i][/small]

@@ -1,0 +1,49 @@
+[small][center][b]Idris Inc.
+Civilian Branch of Investigation[/b]
+
+Forensic Exam
+[/center][hr]Subject: Crime Scene Handling
+Supervisor: Kathira El-Hashem
+Supervisor signature: [sign]
+[hr]Student: [field]
+Signature: [field]
+[hr]This exam is created by Kathira Kirjri'creshkhan El-Hashem for the express purpose of gauging the progress of the student and where they need more training. The exercise is entirely theoretical with a scenario made up explicitly for this purpose.
+The test is divided into three categories:  Equipment, procedures and crime scene detail. Make sure to read all the questions before beginning the test.[/small]
+
+
+[small][h3]Equipment
+[/h3]Investigating a crime scene requires several tools, some of which holds more importance than others. What are the the seven most critical pieces of field equipment for an investigator?
+[list][*][field]
+[*][field]
+[*][field]
+[*][field]
+[*][field]
+[*][field]
+[*][field]
+[/list][hr]Likewise there is critical equipment within the forensic lab which is used to analyse everything that is  gathered. What are these devices, including necessary equipment for them?
+[list][*][field]
+[*][field]
+[*][field]
+[/list][/small]
+
+
+[small][h3]Procedures
+[/h3]There is a variety of procedures to be done when investigating a case, be it a simple theft or a murder. In this scenario, assume a murder has been committed and you have been called to the scene. It is filled with blood, including on the walls and the victim's face is unrecognisable, but there is no apparent casings laying around. How do you deal with the scene itself?
+[list][field]
+[/list][hr]Afterwards you will be going to the lab.  Another investigator is handling the autopsy in your place so you will not need to worry about it. What do you do once you arrive to the laboratory?[list][field]
+[/list][/small]
+
+
+[small][h3]Crime Scene Details
+[/h3]There are many details to pay attention to at a crime scene. Continuing with the idea of a murder or serious injury, what are significant marks of each of the following:[list][*]Lasers: [field]
+[*]Ballistics: [field]
+[*]Blunt weapons: [field]
+[*]Sharp weapons: [field]
+[*]Poisoning: [field]
+[*]Asphyxiation: [field]
+[/list][/small]
+
+
+[small][h3]Conclusion
+[/h3]Once the test is complete, put it into the provided folder and label the folder with your name and time of completion.
+And remember: Your awareness is your greatest tool in investigative work.[/small]

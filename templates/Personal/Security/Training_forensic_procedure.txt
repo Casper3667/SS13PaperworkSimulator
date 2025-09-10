@@ -1,0 +1,36 @@
+[small][center][b]Idris Inc.
+Civilian Branch of Investigation[/b]
+
+Training
+[/center][hr]Subject: Crime Scene Procedures
+Supervisor: Kathira El-Hashem
+Supervisor signature: [field]
+[hr]Security officers: [list][*]Ensures the scene is safe
+[*]Wear gloves
+[*]Check entry and exit points
+[*]Calls in the scene
+[*]Identifies witnesses
+[*]Secures the scene
+[/list][hr]Investigative Personnel:[list][*]Wear gloves
+[*]Take a picture of the scene if needed
+[*]Get dna samples
+[*]Get fibers, then prints of everything
+[*]Bag any corpses
+[*]Collect contraband and other evidence objects in evidence bags
+[*]When done, inform officers that the tape can be removed
+[/list][hr]Laboratory: [list][*]Put dna sample in dna analyser
+[*]Go through fibers & prints
+[*]Match prints & fibers with potential suspects
+[*]After checking all evidence, label bags and closet
+[*]Fill out appropriate forms if time & energy permits. Otherwise fill at central
+[/list][hr]Autopsy: [list][*]Remove anything the corpse is wearing
+[*]Bodyscan it
+[*]Check the scan for anything unusual and print it
+[*]Put the body on the surgery table and prepare to perform the autopsy
+[*]Take a picture of the body
+[*]Make an incision and scan each injured area
+[*]Proceed with shrapnel removal is any is present
+[*]If chemicals are present or suspected to have been used, perform a blood test
+[*]Make a conclusion based on the evidence
+[/list]Notes:[list][*]Coroner's form, bloodworks & foreign object removal forms are used for autopsies
+[*]Anything not a direct result of the autopsy goes under coroner's notes[/list][/small]

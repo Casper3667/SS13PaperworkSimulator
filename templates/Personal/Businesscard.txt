@@ -1,0 +1,1 @@
+[table][cell][table][cell][cell][logo_][cell][cell][center][large][b]Company Name[/b][/large][/center][hr][b]Liasion Name[/b][br]Contact:[field][br][sign][hr][small][i][center]Motto.[/center][/i][/small][cell][/table][/table]

@@ -1,0 +1,29 @@
+[small][b][center]NanoTrasen Inc.[br]Civilian Branch of Operation[/b]
+
+Corporate Sales Contract and Receipt[/small][/center][hr][b]Product Information[/b]
+
+Product Name: [field]
+Product Type:
+[[field]] Weapon
+[[field]] Tool
+[[field]] Entertainment
+[[field]] Other: [u][field][/u]
+
+Product Unit Cost: [field]c
+Product Units Requested: x[field]
+Total Cost: [field]c
+[hr][b]Terms and Conditions[/b]
+[i]The 'Purchaser' may not return any sold product units for re-compensation in credits, but may return the item for an identical item, or item of equal material (not credit) value. The 'Seller' agrees to make their best effort to repair, or replace any items that fail to accomplish their designed purpose, due to malfunction or manufacturing error - but not user-caused damage.
+[/i][hr][b]Purchaser Information[/b]
+
+Name: [field]
+Position: [field]
+Signature: [field]
+
+[b]Seller Information[/b]
+
+Name: [field]
+Position: [field]
+Signature: [field]
+
+[center]Stamp below if Approved[/center][hr][/small]

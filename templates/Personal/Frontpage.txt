@@ -1,0 +1,13 @@
+[small][center][b]NanoTrasen Inc.
+Civilian Branch of Investigation[/b]
+
+Front Page
+[/center][hr]From: [field]
+To: [field]
+Subject: [field]
+[hr]Summary: [list][field]
+[/list]Contents: [list][field]
+[/list]Total Number of Pages: [field]
+[hr][small][i]This message, and the documents attached hereto, are intended only for the addressee and may contain confidential information. Any unauthorized disclosure is strictly prohibited.
+
+If this transmission is received in error, please notify the sender immediately so that corrective action may be taken. Failure to comply is a breach of corporate regulation and will be prosecuted to the fullest extent, where applicable.[/i][/small]
