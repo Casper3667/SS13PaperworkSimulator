@@ -1,4 +1,4 @@
-[small]Person in question: [field]
+[table][cell][small]Person in question: [field]
 Asked party: [field]
 [hr][h3]Personal
 [/h3]Problems: [list][field]
@@ -7,4 +7,4 @@ Asked party: [field]
 [/h3]problems: [list][field]
 [/list]Ways to improve: [list][field]
 [/list][hr]Other: [list][field]
-[/list][/small]
+[/list][/small][/table]

@@ -1,4 +1,4 @@
-[small][b][center]NanoTrasen Inc.[br]Civilian Branch of Operation[/b]
+[table][cell][small][b][center]NanoTrasen Inc.[br]Civilian Branch of Operation[/b]
 
 Corporate Sales Contract and Receipt[/small][/center][hr][b]Product Information[/b]
 
@@ -26,4 +26,4 @@ Name: [field]
 Position: [field]
 Signature: [field]
 
-[center]Stamp below if Approved[/center][hr][/small]
+[center]Stamp below if Approved[/center][hr][/small][/table]

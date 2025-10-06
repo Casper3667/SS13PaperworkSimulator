@@ -1,4 +1,4 @@
-[small][center][b]Idris Inc.
+[table][cell][small][center][b]Idris Inc.
 Civilian Branch of Investigation[/b]
 
 Training
@@ -27,4 +27,4 @@ Supervisor signature: [field]
 [*]Vial: For blood or other chemicals
 [*]Luminol: To show cleaned up blood
 [*]UV light: To show the above
-[*]Fingerprint cards: To take prints from a suspect, should they lack  a print record.[/small]
+[*]Fingerprint cards: To take prints from a suspect, should they lack  a print record.[/small][/table]

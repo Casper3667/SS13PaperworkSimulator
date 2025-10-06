@@ -1,12 +1,1 @@
-[table][row][cell][center][logo_idris][h3]Idris Investigation[/h3][/center][hr][grid][row][cell][center]Kathira Kirjri'creshkhan
-El-Hashem[hr]Forensic investigator[/center]
-
-
-
-
-
-[cell][small]Educated in forensic science at Kaltir Law Academy
-Certified by the Royal Board of Criminalistics
-[i]Security Investigations Office, NSS Aurora
-elhashem.kaltir@idrissec.id
-(+1) 551-024-4691[/small][/i]
+[table][cell][table][cell][cell][logo_idris][cell][cell][center][large][b]Idris Inc.[/large][br]Investigation branch[/b][/center][hr][b]Dr. Kathira El-Hashem[/b][br][i][small]Forensic Technician[/small][/i][br][small]SCCV Horizon[/small][hr][small]Educated in forensic science at Kaltir Law Academy[br]Certified by the Royal Board of Criminalistics[/small][hr][b]Contact[/b][br][small]#(+1) 551-024-4691[br]#elhashem.kaltir@idrissec.id[/small][hr][small][i][center]Investigating today to safeguard tomorrow.[/center][/i][/small][cell][/table][/table]
