@@ -93,34 +93,34 @@
             }
     },
     "Personal": {
-        "Front page": "Personal/Frontpage.txt",
-        "Back page": "Personal/Backpage.txt",
         "Business card": "Personal/Businesscard.txt",
-        "Kath's card": "Personal/KathCard.txt",
-        "Personal (Security)": {
-            "Front report": "Personal/Security/Front_report.txt",
-            "Investigation report": "Personal/Security/Investigation_report.txt",
-            "Training: Forensic Equipment": "Personal/Security/Training_forensic_equipment.txt",
-            "Training: Forensic Procedure": "Personal/Security/Training_forensic_procedure.txt",
-            "Training: Forensic Live": "Personal/Security/Training_forensic_live",
-            "Training: Forensic Exam": "Personal/Security/Training_forensic_exam.txt"
-        },
-        "Personal (Service)": {
-            "Menu 1": "Personal/Service/Menu_1.txt",
-            "Menu 2": "Personal/Service/Menu_2.txt"
-        },
-        "Personal (Idris Investigation)": {
-            "Investigation front page": "Personal/Idris_Investigation/Idris_front_page.txt",
-            "Interview notes": "Personal/Idris_Investigation/Interview_notes.txt",
-            "Scene notes": "Personal/Idris_Investigation/Scene_notes.txt",
-            "Interview guide 1": "Personal/Idris_Investigation/Interview_guide_1.txt",
-            "Interview guide 2": "Personal/Idris_Investigation/Interview_guide_3.txt",
-            "Interview guide 3": "Personal/Idris_Investigation/Interview_guide_3.txt"
-        },
-        "Personal (Command & other)": {
-            "Problem resolution form": "Personal/Problemresolutionform.txt",
-            "Sales agreement": "Personal/Salesagreement.txt",
-            "NDA": "Personal/NDA.txt"
-        }
+        "Kath's card": "Personal/KathCard.txt"
+    },
+    "Security": {
+        "Front report": "Personal/Security/Front_report.txt",
+        "Investigation report": "Personal/Security/Investigation_report.txt",
+        "Training: Forensic Equipment": "Personal/Security/Training_forensic_equipment.txt",
+        "Training: Forensic Procedure": "Personal/Security/Training_forensic_procedure.txt",
+        "Training: Forensic Live": "Personal/Security/Training_forensic_live",
+        "Training: Forensic Exam": "Personal/Security/Training_forensic_exam.txt"
+    },
+    "Service": {
+        "Menu 1": "Personal/Service/Menu_1.txt",
+        "Menu 2": "Personal/Service/Menu_2.txt"
+    },
+    "Idris Investigation": {
+        "Investigation front page": "Personal/Idris_Investigation/Idris_front_page.txt",
+        "Interview notes": "Personal/Idris_Investigation/Interview_notes.txt",
+        "Scene notes": "Personal/Idris_Investigation/Scene_notes.txt",
+        "Interview guide 1": "Personal/Idris_Investigation/Interview_guide_1.txt",
+        "Interview guide 2": "Personal/Idris_Investigation/Interview_guide_3.txt",
+        "Interview guide 3": "Personal/Idris_Investigation/Interview_guide_3.txt"
+    },
+    "Command & other": {
+                "Front page": "Personal/Frontpage.txt",
+        "Back page": "Personal/Backpage.txt",
+        "Problem resolution form": "Personal/Problemresolutionform.txt",
+        "Sales agreement": "Personal/Salesagreement.txt",
+        "NDA": "Personal/NDA.txt"
     }
 }
