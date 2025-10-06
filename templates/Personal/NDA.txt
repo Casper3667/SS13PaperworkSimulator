@@ -1,0 +1,30 @@
+[table][cell][h1]NONDISCLOSURE AGREEMENT (NDA)[/h1]This Agreement is made on
+Date: [date]
+
+Between the following parties:
+
+Disclosing Party:
+Name: [list][field]
+[/list]Receiving Party:
+Name: [list][field]
+[/list][table][cell][h2]1. Purpose[/h2]The Disclosing Party and Receiving Party acknowledge that a specific event or incident occurred, and this Agreement is intended to prevent the Receiving Party from disclosing any information related to that incident.
+
+The nature of the incident may include, but is not limited to:
+[list][*]Sensitive or reputational matters
+[*]Internal disputes
+[*]Misconduct or errors
+[*]Accidents or disruptions
+[*]Any information communicated during the incident
+[/list][row][cell][h2]2. Definition of Confidential Incident Information[/h2]Confidential Incident Information includes all factual, implied, or contextual details related to the incident, including but not limited to:
+[list][*]Conversations, written or oral statements[*]Actions taken by any involved parties[*]Internal resolutions or investigations[*]Personal or identifying information related to those involved[*]Any subsequent outcomes or decisions connected to the incident
+[/list][row][cell][h2]3. Obligations of Receiving Party[/h2]The Receiving Party agrees to:
+[list][*]Not disclose or discuss any aspect of the incident[*]Not share related materials, communications, or opinions[*]Refrain from posting or referencing the incident in any public or private setting[*]Use discretion in all future related communications
+[/list][row][cell][h2]4. Permitted Exceptions[/h2]The Receiving Party may disclose information related to the incident only if:
+[list][*]Required by law or legal process (e.g., court order or subpoena)[*]With prior written consent from the Disclosing Party[*]When reporting to legal authorities, if applicable under whistleblower protections
+[/list][row][cell][h2]5. Acknowledgment of Harm[/h2]The Receiving Party acknowledges that unauthorized disclosure may result in harm to the Disclosing Party and/or other individuals involved, including reputational, emotional, or legal consequences.
+[row][cell][h2]6. Governing Law[/h2]This Agreement shall be governed by the laws of:
+[list][field]
+[/list][row][cell][h2]7. Entire Agreement[/h2]This Agreement represents the entire understanding between the parties regarding the specified incident and supersedes any prior agreements or understandings related to its confidentiality.
+IN WITNESS WHEREOF, the parties have executed this Nondisclosure Agreement as of the Effective Date.
+[/table][large][b]Receiving Party[/b][/large]
+Signature: [list][field][/list][/table]
