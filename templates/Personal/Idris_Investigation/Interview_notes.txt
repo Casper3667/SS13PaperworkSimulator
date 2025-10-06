@@ -1,0 +1,21 @@
+[table][cell][small][center][b]Idris Inc.
+Civilian Branch of Investigation[/b]
+
+Interview notes
+[/center][hr]Case: [field]
+Date/time: [date], [field]
+Investigator: [field]
+Subject: [field]
+Subject occupation: [field]
+[hr]Subject respones:
+[list][*]Location at time of incident: [field]
+[*]Observation: [field]
+[*]Other persons noted: [field]
+[*]Contradiction: [field]
+[*]Explanation offered: [field]
+[*]Additional detail: [field]
+[/list][hr]Investigator notes:
+[list][field]
+[/list][hr]Closure statement:
+[list][field]
+[/list][hr]Investigator signature:[br][field][/table]

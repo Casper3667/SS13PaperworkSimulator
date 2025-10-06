@@ -1,0 +1,30 @@
+[table][cell][small][center][b]Idris Inc.
+Civilian Branch of Investigation[/b]
+
+Field Guide
+[/center][hr]Subject: Interrogations and Interviews, part 3
+A proper interview is vital to resolving a matter involving personnel, and discretion is paramount to this. Do not accuse without evidence, instead attempt to extract facts without causing any scandals. Establishing who is at fault for the incident and a timeline of what occured. Above all else, remember: Be polite, be neutral, be in charge.
+[hr][h3]Interrogation of suspects[/h3][b]Objective:[/b] Resolve conflicts and confirm the guilty party.
+To be conducted within the security department, with the cooperation of the ISD.[br]Establish who is guilty of the incident.
+[hr]Recommended approach:
+[list][*]Call the relevant suspects to the department.
+[*]Separate the suspects to avoid them talking with each other.
+[*]Once a suspect has been brought to interrogation, start.[list][*]"Investigator (name) speaking. State your full name and occupation for the record."
+[*]"Are you aware of why you are here?"
+[*]If any answer other than yes: "You are here because of (incident)."
+[/list][*]Get the chronology of events in place.[list][*]"Walk me through your actions step by step."
+[*]"Elaborate on (event)."
+[*]"Your (prints/fibers) were found on (object). Explain this."
+[*]"(Object) was found on you. Do explain that."
+[/list][*]Find out the reasoning.[list][*]"Why did you do (thing)?"
+[*]"Did you work with anyone else?"
+[/list][*]Establish guilt.[list][*]The suspect
+[*]Workplace accident
+[*]Workplace hazard
+[*]Other person
+[*] Other
+[/list][*]Closing:[list][*]"This concludes my questions. If anything else occurs to you, please contact me. Here are my details."
+[*]"Your cooperation will be noted, thank you for your time."
+[*]"Thank you for your assistance. Idris appreciates your time."
+[*]"This concludes my questions. Please wait here, an officer will be by shortly."
+[/list][/list][/table]

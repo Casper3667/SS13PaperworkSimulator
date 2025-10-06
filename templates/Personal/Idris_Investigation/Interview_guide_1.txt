@@ -1,0 +1,24 @@
+[table][cell][small][center][b]Idris Inc.
+Civilian Branch of Investigation[/b]
+
+Field Guide
+[/center][hr]Subject: Interrogations and Interviews, part 1
+A proper interview is vital to resolving a matter involving personnel, and discretion is paramount to this. Do not accuse without evidence, instead attempt to extract facts without causing any scandals. Establishing who is at fault for the incident and a timeline of what occured. Above all else, remember: Be polite, be neutral, be in charge.
+[hr][h3]Witness Interviews[/h3][b]Objective:[/b] Establish a timeline and gather observations.
+Establish what occured.
+[hr]Recommended approach:
+[list][*]Approach the witness and introduce yourself.[list][*]"Good (morning/afternoon/evening). I am investigator (name), representing Idris."
+[*]"Can I have a few minutes of your time for some questions?"
+[*]"For clarity, this is not an interrogation, simply an interview."
+[*]"Your cooperation ensures this matter will be swiftly resolved."
+[/list][*]Start with open ended questions to establish an oversight.[list][*]"Where were you when the event occured?"
+[*]"What did you see?"
+[*]"Can you describe what you heard?"
+[/list][*]Move to specific clarifications.[list][*]"At what exact time did this occur?"
+[*]"Could you clarify (detail)?"
+[*]"Did you notice anyone else in the area?"
+[/list][*]Remember: Keep speculation out and keep it to the facts. Remind the witness of such if necessary, politely.
+[*]Closing:[list][*]"This concludes my questions. If anything else occurs to you, please contact me. Here are my details."
+[*]"Your cooperation will be noted, thank you for your time."
+[*]"Thank you for your assistance. Idris appreciates your time."
+[/list][/list][/table]

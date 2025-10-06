@@ -1,0 +1,13 @@
+[table][row][cell][center][logo_idris][h3]Idris Investigation[/h3][/center][hr][b]Case information[/b]
+[small]Case Number: [field]
+Date of Assessment: [date]
+[/small][hr][b]Incident Overview[/b]
+[small]Location: [field]
+Incident type: [field]
+Summary:
+[list][field]
+[/list]Contents:
+[list][field]
+[/list]
+[/list]Total Number of Pages: [field][/small]
+[hr][hr][grid][row][cell][center]Dr. Kathira [br]Kirjri'creshkhan El-Hashem[hr]Forensic investigator[/center][cell][small]Educated in forensic science at Kaltir Law Academy[br]Certified by the Royal Board of Criminalistics[br]#[i]Security Investigations Office, SCCV Horizon[/i][br]#[i]elhashem.kaltir@idrissec.id[/i][br]#[i](+1) 551-024-4691[/i][/small][/grid][hr][small]In case of complaints, dial (+6) 417-596-4555 for Idris human resource department or message idris.feedback@idrissec.id.[br](Additional fees during call may be applied depending on length of call and plausibility of complaint)[/small][/table]
