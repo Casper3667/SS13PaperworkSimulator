@@ -123,6 +123,7 @@ function processText(str) {
         .replaceAll('[time]', getTimeString())
         .replaceAll('[date]', getDateString())
         .replaceAll('[sign]', '<span class="sig">John Doe</span>')
+        .replaceAll('[station]', 'SCCV Horizon')
 
         .replaceAll('[large]', '<span class="large-text">')
         .replaceAll('[/large]', '</span>')
