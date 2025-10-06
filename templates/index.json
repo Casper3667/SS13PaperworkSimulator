@@ -1,101 +1,102 @@
 {
     "Instructions": "instructions.txt",
-    "General Templates": {
+
+    "Old Bay": {
+        "General Templates": {
         "Cover, First Page": "general/cover.txt",
         "Cover, Last Page": "general/cover_end.txt"
-    },
-    "Character Records": {
-        "Public": "records/public.txt",
-        "Employment (Fleet)": "records/employment_fleet.txt",
-        "Medical": "records/medical.txt",
-        "Security": "records/security.txt",
-        "Exploitable": "records/antag.txt",
-        "Records (SierraKomodo)": {
-            "Public/Header (Contractor)": "records/sierrakomodo/public_contractor.txt",
-            "Public/Header (Military)": "records/sierrakomodo/public_military.txt",
-            "Employment (Contractor)": "records/sierrakomodo/employment_contractor.txt",
-            "Employment (Military)": "records/sierrakomodo/employment_military.txt",
-            "Medical (Common)": "records/sierrakomodo/medical.txt",
-            "Security (Contractor)": "records/sierrakomodo/security_contractor.txt",
-            "Security (Military)": "records/sierrakomodo/security_military.txt"
-        }
-    },
-    "Command": {
-        "Access Modification": "command/access_mod.txt",
-        "Crew Job Transfer": "command/crew_transfer.txt",
-        "New Arrival": "command/arrival.txt",
-        "Departmental Audit": "command/department_audit.txt",
-        "Incident Report": "command/incident.txt",
-        "SITREP": "command/sitrep.txt",
-        "General Transmission": "command/transmission.txt",
-        "Visa Issuing Form": "command/visa.txt",
-        "Command (EXO)": {
-            "Complaint (EXO Personnel)": "command/exo/complaint_exo.txt",
-            "Complaint (Non-EXO Personnel)": "command/exo/complaint_nexo.txt",
-            "Memo (Internal)": "command/exo/memo.txt",
-            "Memo (Inter-department)": "command/exo/memo_ext.txt",
-            "Payable on Death": "command/exo/pod.txt",
-            "Sales Agreement": "command/exo/sales.txt",
-            "Termination": "command/exo/termination.txt",
-            "Test Subject Waiver": "command/exo/test_subject.txt",
-            "Test Subject Rejection": "command/exo/test_subject_no.txt",
-            "Visa Application": "command/exo/visa.txt"
-        }
-    },
-    "Engineering": {
-        "Area Inspection": "engineering/compliance.txt"
-    },
-    "Exploration": {
-        "Away Team Manifest": "exploration/away_manifest.txt",
-        "Exoplanet Report": "exploration/exoplanet.txt",
-        "Fauna Report": "exploration/fauna.txt",
-        "Preflight Checklist": "exploration/uf301a_preflight.txt"
-    },
-    "Medical": {
-        "Autopsy Report": "medical/autopsy.txt",
-        "Autopsy Report (Alternate)": "medical/autopsy2.txt",
-        "Cyborgification Waiver": "medical/cyborgification.txt",
-        "Blood Donation": "medical/blood_donation.txt",
-        "Prescription": "medical/prescription.txt",
-        "Discharge": "medical/discharge.txt"
-    },
-    "Research": {
-        "Anomaly Report": "research/anomaly.txt",
-        "Xenoflora Report": "research/xenoflora.txt"
-    },
-    "Security": {
-        "Arrest Report": "security/arrest_report.txt",
-        "Hot Sheet": "security/hot_sheet.txt",
-        "Incident Report": "security/incident_report.txt",
-        "Patrol Assignment": "security/patrol_assignment.txt",
-        "Patrol Assignment (Alternate)": "security/patrol_assignment2.txt",
-        "POI Watchlist": "security/personnel_watchlist.txt",
-        "POI Watchlist (Alternate)": "security/personnel_watchlist2.txt",
-        "SECARM Inventory": "security/secarm_inventory.txt",
-        "Shift Report": "security/shift_report.txt"
-    },
-    "Supply": {
-        "Docked Vessel": "supply/docked_vessel.txt",
-        "Special Requisition/Command Supply": "supply/uf102b_requisition_special.txt"
-    },
-    "Service": {
-        "Kosher Certificate": "service/kosher.txt"
-    },
-    "Admin": {
-        "EXCOM Automated Reply": "admin/excom_autoreply.txt",
-        "EXO Automated Reply": "admin/exo_autoreply.txt"
-    },
-    "CM-SS13": {
-        "W-Y Company Fax": "cm/companyfax.txt",
-        "High Command Fax": "cm/commandfax.txt"
+        },
+            "Character Records": {
+                "Public": "records/public.txt",
+                "Employment (Fleet)": "records/employment_fleet.txt",
+                "Medical": "records/medical.txt",
+                "Security": "records/security.txt",
+                "Exploitable": "records/antag.txt",
+                "Records (SierraKomodo)": {
+                    "Public/Header (Contractor)": "records/sierrakomodo/public_contractor.txt",
+                    "Public/Header (Military)": "records/sierrakomodo/public_military.txt",
+                    "Employment (Contractor)": "records/sierrakomodo/employment_contractor.txt",
+                    "Employment (Military)": "records/sierrakomodo/employment_military.txt",
+                    "Medical (Common)": "records/sierrakomodo/medical.txt",
+                    "Security (Contractor)": "records/sierrakomodo/security_contractor.txt",
+                    "Security (Military)": "records/sierrakomodo/security_military.txt"
+                }
+            },
+            "Command": {
+                "Access Modification": "command/access_mod.txt",
+                "Crew Job Transfer": "command/crew_transfer.txt",
+                "New Arrival": "command/arrival.txt",
+                "Departmental Audit": "command/department_audit.txt",
+                "Incident Report": "command/incident.txt",
+                "SITREP": "command/sitrep.txt",
+                "General Transmission": "command/transmission.txt",
+                "Visa Issuing Form": "command/visa.txt",
+                "Command (EXO)": {
+                    "Complaint (EXO Personnel)": "command/exo/complaint_exo.txt",
+                    "Complaint (Non-EXO Personnel)": "command/exo/complaint_nexo.txt",
+                    "Memo (Internal)": "command/exo/memo.txt",
+                    "Memo (Inter-department)": "command/exo/memo_ext.txt",
+                    "Payable on Death": "command/exo/pod.txt",
+                    "Sales Agreement": "command/exo/sales.txt",
+                    "Termination": "command/exo/termination.txt",
+                    "Test Subject Waiver": "command/exo/test_subject.txt",
+                    "Test Subject Rejection": "command/exo/test_subject_no.txt",
+                    "Visa Application": "command/exo/visa.txt"
+                }
+            },
+            "Engineering": {
+                "Area Inspection": "engineering/compliance.txt"
+            },
+            "Exploration": {
+                "Away Team Manifest": "exploration/away_manifest.txt",
+                "Exoplanet Report": "exploration/exoplanet.txt",
+                "Fauna Report": "exploration/fauna.txt",
+                "Preflight Checklist": "exploration/uf301a_preflight.txt"
+            },
+            "Medical": {
+                "Autopsy Report": "medical/autopsy.txt",
+                "Autopsy Report (Alternate)": "medical/autopsy2.txt",
+                "Cyborgification Waiver": "medical/cyborgification.txt",
+                "Blood Donation": "medical/blood_donation.txt",
+                "Prescription": "medical/prescription.txt",
+                "Discharge": "medical/discharge.txt"
+            },
+            "Research": {
+                "Anomaly Report": "research/anomaly.txt",
+                "Xenoflora Report": "research/xenoflora.txt"
+            },
+            "Security": {
+                "Arrest Report": "security/arrest_report.txt",
+                "Hot Sheet": "security/hot_sheet.txt",
+                "Incident Report": "security/incident_report.txt",
+                "Patrol Assignment": "security/patrol_assignment.txt",
+                "Patrol Assignment (Alternate)": "security/patrol_assignment2.txt",
+                "POI Watchlist": "security/personnel_watchlist.txt",
+                "POI Watchlist (Alternate)": "security/personnel_watchlist2.txt",
+                "SECARM Inventory": "security/secarm_inventory.txt",
+                "Shift Report": "security/shift_report.txt"
+            },
+            "Supply": {
+                "Docked Vessel": "supply/docked_vessel.txt",
+                "Special Requisition/Command Supply": "supply/uf102b_requisition_special.txt"
+            },
+            "Service": {
+                "Kosher Certificate": "service/kosher.txt"
+            },
+            "Admin": {
+                "EXCOM Automated Reply": "admin/excom_autoreply.txt",
+                "EXO Automated Reply": "admin/exo_autoreply.txt"
+            },
+            "CM-SS13": {
+                "W-Y Company Fax": "cm/companyfax.txt",
+                "High Command Fax": "cm/commandfax.txt"
+            }
     },
     "Personal": {
         "Front page": "Personal/Frontpage.txt",
         "Back page": "Personal/Backpage.txt",
         "Business card": "Personal/Businesscard.txt",
         "Kath's card": "Personal/KathCard.txt",
-        "Problem resolution form": "Personal/Problemresolutionform.txt",
-        "Sales agreement": "Personal/Salesagreement.txt",
         "Personal (Security)": {
             "Front report": "Personal/Security/Front_report.txt",
             "Investigation report": "Personal/Security/Investigation_report.txt",
@@ -107,6 +108,19 @@
         "Personal (Service)": {
             "Menu 1": "Personal/Service/Menu_1.txt",
             "Menu 2": "Personal/Service/Menu_2.txt"
+        },
+        "Personal (Idris Investigation)": {
+            "Investigation front page": "Personal/Idris_Investigation/Idris_front_page.txt",
+            "Interview notes": "Personal/Idris_Investigation/Interview_notes.txt",
+            "Scene notes": "Personal/Idris_Investigation/Scene_notes.txt",
+            "Interview guide 1": "Personal/Idris_Investigation/Interview_guide_1.txt",
+            "Interview guide 2": "Personal/Idris_Investigation/Interview_guide_3.txt",
+            "Interview guide 3": "Personal/Idris_Investigation/Interview_guide_3.txt"
+        },
+        "Personal (Command & other)": {
+            "Problem resolution form": "Personal/Problemresolutionform.txt",
+            "Sales agreement": "Personal/Salesagreement.txt",
+            "NDA": "Personal/NDA.txt"
         }
     }
 }
